@@ -71,7 +71,7 @@ Ejecuta el pipeline completo (limpieza, features, entrenamiento, evaluación):
 
 Para realizar la ejecución completa del pipeline, se debe correr el archivo main.py desde la consola (python main.py) que se encuentra en la raiz del proyecto, se debe tener en cuenta que se debe tener activo el ambiente virtual y la instalación de las librerias requeridas. Al ejecutar el pipeline completo se generan los archivos correspondientes .pkl
 
-**IMPORTANTE:** Se debe agregar el dataset (raw data) enviado para la prueba en la carpeta 'data' del proyecto con el nombre de 'new_items_dataset.csv', esta ruta y nombre de archivo es el configurado en la clase de analyzer. 
+**IMPORTANTE:** Se debe agregar el dataset (raw data) enviado para la prueba en la carpeta 'data' del proyecto con el nombre de 'new_items_dataset.csv', esta ruta y nombre de archivo es el configurado en el main del proyecto y lo paso como argumento a la clase de analyzer. 
 
 ### 2. Realizar Predicciones
 
