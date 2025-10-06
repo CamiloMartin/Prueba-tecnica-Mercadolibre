@@ -1,0 +1,2 @@
+El arhcivo dentro de esta ruta es el set de datos enviado para la prueba con el nombre
+new_items_dataset.csv

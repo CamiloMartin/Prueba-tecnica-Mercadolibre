@@ -1,0 +1,12 @@
+# Core scientific stack
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+
+# Machine Learning
+scikit-learn==1.5.1
+xgboost==3.0.5
+imbalanced-learn==0.14.0
+
+# Utilidades
+typing_extensions==4.12.2
